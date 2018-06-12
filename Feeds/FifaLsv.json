@@ -456,7 +456,7 @@
           "date": "2018-06-20T18:00:00+03:00",
           "stadium": 10,
           "channels": [3,6],
-          "finished": false,
+          "finished": true,
           "matchday": 2
         },
         {
