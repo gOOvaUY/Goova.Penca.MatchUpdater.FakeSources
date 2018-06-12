@@ -90,7 +90,7 @@
 		"HomeSubDetails": [
 		""],
 		"AwaySubDetails": [
-		""],,
+		""],
 		"HomeGoalDetails": [
 			"43': Hola",
 			"43': Hola2",
@@ -147,5 +147,5 @@
 		"Group": "Group A",
 		"Group_Id": "139",
 		"HasBeenRescheduled": false
-	},
+	}
 ]
