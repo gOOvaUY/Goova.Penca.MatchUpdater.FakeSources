@@ -430,7 +430,7 @@
           "date": "2018-06-15T17:00:00+05:00",
           "stadium": 12,
           "channels": [3,6],
-          "finished": false,
+          "finished": true,
           "matchday": 1
         },
         {

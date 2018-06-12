@@ -69,5 +69,83 @@
 		"Group": "Group A",
 		"Group_Id": "139",
 		"HasBeenRescheduled": false
-	},	
+	},
+	{
+		"Id": 0,
+		"FixtureMatch_Id": 386835,
+		"Date": "2018-06-15T09:00:00-03:00",
+		"Location": "Cairo International Stadium",
+		"Round": 1,
+		"Time": null,
+		"Spectators": null,
+		"League": "World Cup 2018",
+		"HomeTeam": "Egypt",
+		"HomeTeam_Id": 4839,
+		"HomeCorners": 0,
+		"HomeGoals": 5,
+		"HalfTimeHomeGoals": 0,
+		"HomeShots": 0,
+		"HomeShotsOnTarget": 0,
+		"HomeFouls": 0,
+		"HomeSubDetails": [
+		""],
+		"AwaySubDetails": [
+		""],,
+		"HomeGoalDetails": [
+			"43': Hola",
+			"43': Hola2",
+			"45': Hola3",
+			"45': Hola3",
+			"45': Hola3",
+			""
+		],
+		"HomeLineupGoalkeeper": null,
+		"HomeLineupDefense": [
+		""],
+		"HomeLineupMidfield": [
+		""],
+		"HomeLineupForward": [
+		""],
+		"HomeLineupSubstitutes": null,
+		"HomeLineupCoach": null,
+		"HomeYellowCards": null,
+		"HomeRedCards": null,
+		"HomeTeamFormation": null,
+		"AwayTeam": "Uruguay",
+		"AwayTeam_Id": 964,
+		"AwayCorners": 0,
+		"AwayGoals": 6,
+		"HalfTimeAwayGoals": 0,
+		"AwayShots": 0,
+		"AwayShotsOnTarget": 0,
+		"AwayFouls": 0,
+		"AwayGoalDetails":  [
+			"43': Hola",
+			"43': Hola2",
+			"45': Hola3",
+			"45': Hola3",
+			"45': Hola3",
+			"45': Hola3",
+			""
+		],
+		"AwayLineupGoalkeeper": null,
+		"AwayLineupDefense": [
+		""],
+		"AwayLineupMidfield": [
+		""],
+		"AwayLineupForward": [
+		""],
+		"AwayLineupSubstitutes": null,
+		"AwayLineupCoach": null,
+		"AwayYellowCards": null,
+		"AwayRedCards": null,
+		"AwayTeamFormation": null,
+		"HomeTeamYellowCardDetails": null,
+		"AwayTeamYellowCardDetails": null,
+		"HomeTeamRedCardDetails": null,
+		"AwayTeamRedCardDetails": null,
+		"Group": "Group A",
+		"Group_Id": "139",
+		"HasBeenRescheduled": false
+	},
 ]
